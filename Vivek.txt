@@ -6,4 +6,4 @@ html
 sqlQuery
 thank you
 spring git boot
- this file just for gathering information for how developer can write code in github from vs code software and alter the changes in own computer for more effective manner thats why i want chang all directory from that perticular place .
+ this file just for gathering information for how developer can write code in github from vs code software and alter the changes in own computer for more effective manner thats why i want chang all directory from that perticular place.
